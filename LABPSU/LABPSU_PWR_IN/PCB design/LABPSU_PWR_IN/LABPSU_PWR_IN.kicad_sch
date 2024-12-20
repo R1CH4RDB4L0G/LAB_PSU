@@ -2502,6 +2502,110 @@
 	)
 	(symbol
 		(lib_id "Device:Fuse_Small")
+		(at 116.84 55.88 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "0101e6be-1326-43b3-bcc1-5de0a5cde095")
+		(property "Reference" "F2"
+			(at 116.84 53.594 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Fuse_Small"
+			(at 116.84 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Fuse, small symbol"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manifacturer" "RoHS"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Hestore"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.238.32"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10023832.html#"
+			(at 116.84 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2373f120-6910-4287-ab19-0644826ad7f7")
+		)
+		(pin "2"
+			(uuid "bc5d6800-8ba7-4de6-85cd-5c512bde598e")
+		)
+		(instances
+			(project "LABPSU_PWR_IN"
+				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
+					(reference "F2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Fuse_Small")
 		(at 88.9 55.88 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2545,6 +2649,42 @@
 			)
 		)
 		(property "Description" "Fuse, small symbol"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manifacturer" "RoHS"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Hestore"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.238.32"
+			(at 88.9 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10023832.html#"
 			(at 88.9 55.88 0)
 			(effects
 				(font
@@ -2720,7 +2860,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "30845bdb-e768-45ff-ba46-37bbfc534278")
+		(uuid "3821233c-d862-4d3d-bdeb-e063aade119b")
 		(property "Reference" "F4"
 			(at 116.84 124.714 0)
 			(effects
@@ -2765,11 +2905,47 @@
 				(hide yes)
 			)
 		)
+		(property "Manifacturer" "RoHS"
+			(at 116.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Hestore"
+			(at 116.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.238.32"
+			(at 116.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10023832.html#"
+			(at 116.84 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "f1f1a659-9033-4bac-8f0a-2cdeb20e3f17")
+			(uuid "3ead64be-34dd-4a7c-b591-b63761f8b54d")
 		)
 		(pin "2"
-			(uuid "0dab24e8-5dc1-4d9b-8f20-26c14a15fdaa")
+			(uuid "5cffc829-1324-42cf-b21a-b0e1b9e21390")
 		)
 		(instances
 			(project "LABPSU_PWR_IN"
@@ -2851,6 +3027,294 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Transformer_1P_2S")
+		(at 129.54 99.06 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "53359876-d7b8-4a26-816d-9be56657d653")
+		(property "Reference" "T2"
+			(at 129.54 83.058 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "BV EI 305 2056"
+			(at 129.54 85.598 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transformer, single primary, dual secondary"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "V Primer " "230 V AC"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "V Szekunder" "9 V"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Power" "3VA"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "I szekunder" "167mA"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manifacturer" "HAHN"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distriburor" "Hestore"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.387.00"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10038700.html"
+			(at 129.54 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "534524e3-dff1-4474-a211-2108b59b87ce")
+		)
+		(pin "4"
+			(uuid "bf3e341d-e1e8-4d70-ac53-334e0d35ea99")
+		)
+		(pin "6"
+			(uuid "9f3ab41e-ac1f-40d1-ba80-6e86d287014e")
+		)
+		(pin "5"
+			(uuid "3e84d2a1-638f-440f-9a53-7548f3000042")
+		)
+		(pin "1"
+			(uuid "5b2e3491-e95b-41b5-af17-f7110f737490")
+		)
+		(pin "3"
+			(uuid "2b4f6ebf-f80e-42d5-9b72-2d2a16077e65")
+		)
+		(instances
+			(project "LABPSU_PWR_IN"
+				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
+					(reference "T2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Transformer_1P_1S")
+		(at 129.54 132.08 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99123f51-77e7-43ff-8731-24226cea9572")
+		(property "Reference" "T3"
+			(at 129.5527 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "EI38"
+			(at 129.5527 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Transformer, single primary, single secondary"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "V primer" "230"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "V secunder" "6"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "I " "0,6A"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manifacturer " "INDEL"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "HESTORE"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.258.55"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10025855.html"
+			(at 129.54 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d849c503-2db5-4254-a91a-583751f19252")
+		)
+		(pin "1"
+			(uuid "7ed2e3c6-c43b-404e-b744-38ddb14caf94")
+		)
+		(pin "3"
+			(uuid "8c3dc59c-e181-44e7-a307-1a7b2d7c90fb")
+		)
+		(pin "4"
+			(uuid "c781cdd0-f5cb-41b9-b13f-08c99442cc2d")
+		)
+		(instances
+			(project ""
+				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
+					(reference "T3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:Fuse_Small")
 		(at 116.84 93.98 0)
 		(unit 1)
@@ -2858,7 +3322,7 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "51eba7ba-8105-4be2-8638-6240dbbe13f5")
+		(uuid "ae26af68-7d9c-4b34-b557-ef822e5e77cf")
 		(property "Reference" "F3"
 			(at 116.84 91.694 0)
 			(effects
@@ -2903,237 +3367,52 @@
 				(hide yes)
 			)
 		)
+		(property "Manifacturer" "RoHS"
+			(at 116.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor" "Hestore"
+			(at 116.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Dist.partnumber" "100.238.32"
+			(at 116.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LINK" "https://www.hestore.hu/prod_10023832.html#"
+			(at 116.84 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
-			(uuid "8200dd28-ce4f-45b0-b660-12bc99e487f7")
+			(uuid "5ffb74bf-6f33-48ff-83f3-51f491c1adbb")
 		)
 		(pin "2"
-			(uuid "39ecd487-6747-49ad-97ea-9b72c55dd1a0")
+			(uuid "d065b40a-3fa1-4854-975d-79a5026f05cb")
 		)
 		(instances
 			(project "LABPSU_PWR_IN"
 				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
 					(reference "F3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Transformer_1P_2S")
-		(at 129.54 99.06 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "53359876-d7b8-4a26-816d-9be56657d653")
-		(property "Reference" "T2"
-			(at 129.54 83.058 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Transformer_1P_2S"
-			(at 129.54 85.598 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Transformer, single primary, dual secondary"
-			(at 129.54 99.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "534524e3-dff1-4474-a211-2108b59b87ce")
-		)
-		(pin "4"
-			(uuid "bf3e341d-e1e8-4d70-ac53-334e0d35ea99")
-		)
-		(pin "6"
-			(uuid "9f3ab41e-ac1f-40d1-ba80-6e86d287014e")
-		)
-		(pin "5"
-			(uuid "3e84d2a1-638f-440f-9a53-7548f3000042")
-		)
-		(pin "1"
-			(uuid "5b2e3491-e95b-41b5-af17-f7110f737490")
-		)
-		(pin "3"
-			(uuid "2b4f6ebf-f80e-42d5-9b72-2d2a16077e65")
-		)
-		(instances
-			(project "LABPSU_PWR_IN"
-				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
-					(reference "T2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Fuse_Small")
-		(at 116.84 55.88 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "72bddff6-ff1f-4a3f-ae68-801a488c7c5e")
-		(property "Reference" "F2"
-			(at 116.84 53.594 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Fuse_Small"
-			(at 116.84 53.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 116.84 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 116.84 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Fuse, small symbol"
-			(at 116.84 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ec17329c-5be8-4c4c-bea3-6ea313af3087")
-		)
-		(pin "2"
-			(uuid "5a510c58-6802-44ca-bd48-18e821b9db90")
-		)
-		(instances
-			(project "LABPSU_PWR_IN"
-				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
-					(reference "F2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:Transformer_1P_1S")
-		(at 129.54 132.08 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "99123f51-77e7-43ff-8731-24226cea9572")
-		(property "Reference" "T3"
-			(at 129.5527 121.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Transformer_1P_1S"
-			(at 129.5527 124.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 129.54 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 129.54 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Transformer, single primary, single secondary"
-			(at 129.54 132.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "d849c503-2db5-4254-a91a-583751f19252")
-		)
-		(pin "1"
-			(uuid "7ed2e3c6-c43b-404e-b744-38ddb14caf94")
-		)
-		(pin "3"
-			(uuid "8c3dc59c-e181-44e7-a307-1a7b2d7c90fb")
-		)
-		(pin "4"
-			(uuid "c781cdd0-f5cb-41b9-b13f-08c99442cc2d")
-		)
-		(instances
-			(project ""
-				(path "/072b511e-f0ec-4909-b9c0-149273565cd2"
-					(reference "T3")
 					(unit 1)
 				)
 			)
